@@ -1,1 +1,1 @@
-git status
+git commit -m "Добавил новую функцию в проект"
